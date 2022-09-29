@@ -1,16 +1,14 @@
-# Description
+## Description
 - Matlab code for the paper: \"Tensor Wheel Decomposition and Its Tensor Completion Application\", NeurIPS 2022.
 
 - Copyright: Zhong-Cheng Wu, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng
 
 - Homepage: https://zhongchengwu.github.io/
 
-----------------------------------------------------------------------------
-### Get started
+## Get started
 - Directly run: ``Demo_Toy.m`` for a Toy data example.
 
-----------------------------------------------------------------------------
-### bib refer.
+## bib refer.
 If you find this code helpful, please kindly cite:
 ```bibtex
 @article{wuTWD2022,
@@ -21,6 +19,5 @@ If you find this code helpful, please kindly cite:
 }
 ```
 
-----------------------------------------------------------------------------
-### Contact
+## Contact
 If interested, feel free to email me at <wuzhch97@163.com>.
