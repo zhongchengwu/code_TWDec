@@ -5,10 +5,11 @@
 
 - Homepage: https://zhongchengwu.github.io/
 
+----------------------------------------------------------------------------
 ### Get started
 - Directly run: ``Demo_Toy.m`` for a Toy data example.
 
- 
+----------------------------------------------------------------------------
 ### bib refer.
 If you find this code helpful, please kindly cite:
 ```bibtex
@@ -19,5 +20,7 @@ If you find this code helpful, please kindly cite:
   year={2022},  
 }
 ```
+
+----------------------------------------------------------------------------
 ### Contact
 If interested, feel free to email me at <wuzhch97@163.com>.
