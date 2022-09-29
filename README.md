@@ -3,18 +3,19 @@
 **Homepage:** https://zhongchengwu.github.io/
 
 # How to use?
-- Directly run: ``demo_Pleiades_test.m`` for a Pleiades example
-- Directly run: ``demo_WV3_test.m`` for a WV3 example
+- Directly run: ``Demo_Toy.m`` for a Toy data example
 
  
 # Citation
 ```bibtex
-@ARTICLE{xiao2022tgrs,
-author={J.-L. Xiao, T.-Z. Huang, L.-J. Deng, Z.-C. Wu, and G. Vivone},
-booktitle={IEEE Trans. Geosci. Remote Sens.},
-title={A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening},
-year={2022},
-pages={DOI: 10.1109/TGRS.2022.3154480},
+@article{wuTWD2022,
+  title={Tensor Wheel Decomposition and Its Tensor Completion Application}, 
+  author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Dou, Hong-Xia and Meng, Deyu}, 
+  journal={Advances in Neural Information Processing Systems},
+  volume={},
+  number={},
+  pages={},
+  year={2022},  
 }
 ```
 
