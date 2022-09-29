@@ -1,8 +1,6 @@
-# code_TW_Decomposition
-Matlab code of TW decomposition
-# A New Context-Aware Details Injection Fidelity with Adaptive Coefficients Estimation for Variational Pansharpening [Matlab Code]
+# Tensor Wheel Decomposition and Its Tensor Completion Application [Matlab Code]
 
-**Homepage:** https://liangjiandeng.github.io/
+**Homepage:** https://zhongchengwu.github.io/
 
 # How to use?
 - Directly run: ``demo_Pleiades_test.m`` for a Pleiades example
