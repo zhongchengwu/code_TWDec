@@ -1,4 +1,4 @@
-### Description
+# Description
 - Matlab code for the paper: \"Tensor Wheel Decomposition and Its Tensor Completion Application\", NeurIPS 2022.
 
 - Copyright: Zhong-Cheng Wu, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng
