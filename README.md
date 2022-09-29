@@ -12,9 +12,6 @@
   title={Tensor Wheel Decomposition and Its Tensor Completion Application}, 
   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Dou, Hong-Xia and Meng, Deyu}, 
   journal={Advances in Neural Information Processing Systems},
-  volume={},
-  number={},
-  pages={},
   year={2022},  
 }
 ```
