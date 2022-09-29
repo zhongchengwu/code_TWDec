@@ -8,7 +8,7 @@
 ## Get started
 - Directly run: ``Demo_Toy.m`` for a Toy data example.
 
-## bib refer.
+## Citation
 If you find this code helpful, please kindly cite:
 ```bibtex
 @article{wuTWD2022,
