@@ -6,7 +6,7 @@
 - Homepage: https://zhongchengwu.github.io
 
 ## Get started
-- Directly run: ``Demo_Toy.m`` for a Toy data example.
+- Directly run: ``Demo_Toy.m`` for an example on Toy data.
 
 ## Citation
 If you find this code helpful, please kindly cite:
