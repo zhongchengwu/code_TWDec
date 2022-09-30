@@ -11,10 +11,10 @@
 ## Citation
 If you find this code helpful, please kindly cite:
 ```bibtex
-@article{wuTWD2022,
+@inproceedings{wuTWD2022,
   title={Tensor Wheel Decomposition and Its Tensor Completion Application}, 
   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Dou, Hong-Xia and Meng, Deyu}, 
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
   year={2022},  
 }
 ```
