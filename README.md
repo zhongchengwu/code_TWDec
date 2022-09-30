@@ -3,7 +3,7 @@
 
 - Copyright: Zhong-Cheng Wu, Ting-Zhu Huang\*, Liang-Jian Deng\*, Hong-Xia Dou, Deyu Meng
 
-- Homepage: https://zhongchengwu.github.io/
+- Homepage: https://zhongchengwu.github.io
 
 ## Get started
 - Directly run: ``Demo_Toy.m`` for a Toy data example.
