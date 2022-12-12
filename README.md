@@ -14,7 +14,7 @@ If you find this code helpful, please kindly cite:
 @inproceedings{wuTWD2022,
   title={Tensor Wheel Decomposition and Its Tensor Completion Application}, 
   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Dou, Hong-Xia and Meng, Deyu}, 
-  booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2022},  
 }
 ```
