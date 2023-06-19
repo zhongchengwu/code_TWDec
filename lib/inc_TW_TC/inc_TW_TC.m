@@ -34,7 +34,7 @@ for k = 1:maxit
     end
     % Update the core tensor C.
     Girest = tnreshapemat(order_tnprod_rest(G), Ndim);
-    if k==1  ||  numel(Core)>numel(C_old)  ||  ( k>200 && mod(k, 20)==0 )   
+    if k<=200 || numel(Core)>numel(C_old) || mod(k,20)==0
         TempC = reshape(X,[1,prod(Nway)])*Girest'+rho*reshape(Core,[1,numel(Core)]);
         TempD = (Girest*Girest')+rho*eye(size(Girest,1),size(Girest,1));
         TempE = TempC*pinv(TempD);
