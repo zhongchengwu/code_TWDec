@@ -1,4 +1,4 @@
-## Journal Version
+## Journal version
 The journal extension of this work provides a fully open-source implementation. 
 Please visit the updated repository: https://github.com/zhongchengwu/code_newTWDec
 
