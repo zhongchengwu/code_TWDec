@@ -20,4 +20,4 @@ If you find this code helpful, please kindly cite:
 ```
 
 ## Contact
-If interested, feel free to email me at <wuzhch97@163.com>.
+If interested, feel free to email me at <zhongcheng.wu@hfut.edu.cn>.
