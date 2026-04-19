@@ -1,3 +1,7 @@
+## Journal Version
+The journal extension of this work provides a fully open-source implementation. 
+Please visit the updated repository: https://github.com/zhongchengwu/code_newTWDec
+
 ## Description
 - Matlab code for the paper: \"Tensor Wheel Decomposition and Its Tensor Completion Application\", NeurIPS 2022.
 
